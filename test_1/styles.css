@@ -1,0 +1,13 @@
+.block {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+    background-color: #18c37b;
+    border: 2px solid #087042;
+    margin: 20px;
+}
+.red {
+    background-color: #ff0000;
+}
